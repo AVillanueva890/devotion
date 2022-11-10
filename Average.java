@@ -1,3 +1,8 @@
+/**
+* Name: Alpichi T. Villanueva
+* Section: Devotion 
+* Year: 4th Year
+*/
 import java.util.Scanner;
 public class Average {
 	public static void main(String[] args) {
